@@ -1,0 +1,12 @@
+C:\Users\carls\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\admin\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\carls\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\carls\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\carls\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\obj\Debug\MovieApp.csprojResolveAssemblyReference.cache
+C:\Users\carls\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\carls\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\admin\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\admin\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\admin\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\admin\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\admin\Documents\GitHub\OOP-Assignment\MovieApp\MovieApp\obj\Debug\MovieApp.csprojResolveAssemblyReference.cache
